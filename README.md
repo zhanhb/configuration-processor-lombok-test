@@ -1,0 +1,2 @@
+# configuration-processor-lombok-test
+[![Build Status](https://travis-ci.org/zhanhb/configuration-processor-lombok-test.svg?branch=master)](https://travis-ci.org/zhanhb/configuration-processor-lombok-test)
